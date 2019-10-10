@@ -1,2 +1,4 @@
 # Drugstore-Management-System
--Written in Python
+Used:
+-Python
+-MySQL Database
